@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+hr {
+  border-color: white;
+  border-style: none;
+  border-style: dotted none none;
+  border-width: thick;
+  height: 10px;
+  width: 50%;
+}
+h2 {
+  color: navy;
+}
